@@ -1,0 +1,10 @@
+C:\Users\Usuário\source\repos\Bet Generator\Bet Generator\bin\Debug\Bet Generator.exe.config
+C:\Users\Usuário\source\repos\Bet Generator\Bet Generator\bin\Debug\Bet Generator.exe
+C:\Users\Usuário\source\repos\Bet Generator\Bet Generator\bin\Debug\Bet Generator.pdb
+C:\Users\Usuário\source\repos\Bet Generator\Bet Generator\obj\Debug\Bet Generator.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\Bet Generator\Bet Generator\obj\Debug\Bet_Generator.Form1.resources
+C:\Users\Usuário\source\repos\Bet Generator\Bet Generator\obj\Debug\Bet_Generator.Properties.Resources.resources
+C:\Users\Usuário\source\repos\Bet Generator\Bet Generator\obj\Debug\Bet Generator.csproj.GenerateResource.cache
+C:\Users\Usuário\source\repos\Bet Generator\Bet Generator\obj\Debug\Bet Generator.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\Bet Generator\Bet Generator\obj\Debug\Bet Generator.exe
+C:\Users\Usuário\source\repos\Bet Generator\Bet Generator\obj\Debug\Bet Generator.pdb
